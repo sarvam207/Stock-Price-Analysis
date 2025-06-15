@@ -69,7 +69,7 @@ This project is for learning purposes only. Do not use it for real investment de
 
 ## Author
 * Sarvam Saroha
-* 🔗 www.linkedin.com/sarvamsaroha
-* 📧 Email
+* 🔗 www.linkedin.com/in/sarvamsaroha
+* 📧 sarvam207@gmail.com
 
 
